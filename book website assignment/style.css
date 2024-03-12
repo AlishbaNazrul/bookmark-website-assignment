@@ -448,6 +448,15 @@ margin-left: -131px;
     font-size:20px;
     line-height: 1.75rem;
   }
+
+  .itm7{
+margin-left: 150px;
+  }
+  .itm7>img{
+    height: 30%;
+    width: 30%;
+    padding: 5px;
+  }
   .card {
     margin: 48px 318px 0 318px;
     width: 455px;
